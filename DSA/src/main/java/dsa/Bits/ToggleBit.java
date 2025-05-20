@@ -5,6 +5,7 @@ public class ToggleBit {
         int n = 29 ; // 11101
         int pos = 2;  //exp op = 11001
 
+
         System.out.println("original num : " + n);
         System.out.println("Binary representation : " + Integer.toBinaryString(n));
 

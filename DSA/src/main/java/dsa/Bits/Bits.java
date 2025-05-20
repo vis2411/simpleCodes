@@ -1,5 +1,4 @@
 package dsa.Bits;
-
 public class Bits {
     public static void main(String[] args) {
         int n = 5 ; //0101
@@ -11,7 +10,5 @@ public class Bits {
         }else {
             System.out.println("bit is one");
         }
-
-
     }
 }
